@@ -1,0 +1,16 @@
+# Visual Studio temp folders
+.vs/
+bin/
+obj/
+
+# User-specific settings
+*.user
+*.suo
+
+# Build output
+*.exe
+*.dll
+*.pdb
+
+# Indexing and cache files
+*.vsidx
